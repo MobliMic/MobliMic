@@ -1,14 +1,11 @@
-### Hi there 👋, my name is Michael
-#### I am a front end developer
+### Hi there, I'm Mic (Mike) 👋
 
-Skills: REACT / JS / HTML / CSS
+I'm a frontend technical lead working in React and also starting to dabble in some Rust and learning whatever new thing interests me!
 
-🔭 I’m currently working on a DnD related web app in my spare time 
+I’m currently working on a lot of smart-home-related things in my spare time, as well as whatever side project in the never-ending list has sparked my interest 😅
 
-🌱 I’m currently learning whatever new thing interests me 
-
-📫 How to reach me: Use the links below! 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MobliMic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/moblimic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moblimic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/moblimic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://moblimic.com)  
+ - 💬 I check in on My [LinkedIn](https://www.linkedin.com/in/moblimic/) occasionally
+ - 🐤 My Twitter: [@moblimic](https://twitter.com/moblimic)
+ - [Hit up my website](https://moblimic.com) where, like most developers, I start trying to post and promptly stop till I rewrite the whole thing again 😄
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MobliMic&show_icons=true)  
